@@ -48,8 +48,6 @@
 
 <br clear="both">
 
-<br clear="both">
-
 <h1 align="center">Estatísticas</h1>
 
 ###
@@ -57,13 +55,10 @@
 <br clear="both">
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=patrickcsouzadev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="130" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcsouzadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false&order=2" height="130" alt="languages graph" />
-    <img src="https://streak-stats.demolab.com?user=patrickcsouzadev&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph" />
-  </div>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickcsouzadev&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=false" height="337" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickcsouzadev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcsouzadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=patrickcsouzadev&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="400" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickcsouzadev&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -72,7 +67,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/patrickcsouzadev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
