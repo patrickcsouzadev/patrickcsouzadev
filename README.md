@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Patrick!  =D</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&width=435&lines=Oi%2C+eu+sou+o+Patrick!!+;Seja+bem+vindo+ao+meu+GitHub!!)](https://git.io/typing-svg)
 
 ###
 
