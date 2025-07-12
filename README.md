@@ -1,44 +1,92 @@
-<p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&width=435&lines=Oi%2C+eu+sou+o+Patrick!!+;Seja+bem+vindo+ao+meu+GitHub!!)](https://git.io/typing-svg)
 
-<p align="center">
-    <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/Snoopy1866"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
-</p>
+###
 
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Snoopy1866&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
-</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara com foco em Desenvolvimento Back-end e previsão de conclusão para Julho de 2026. Minha paixão é usar a tecnologia para construir soluções criativas e funcionais.<br><br>Possuo experiência prática no desenvolvimento de projetos com Java, utilizando o ecossistema Spring (Boot, Security) para criar APIs e aplicações robustas. Tenho familiaridade com Python, múltiplos bancos de dados (MySQL, PostgreSQL, MongoDB) e os fundamentos do front-end (HTML, CSS, JavaScript). Colaboro em ambientes ágeis utilizando Git, GitHub e GitLab, e já explorei serviços de nuvem como AWS e Azure.<br><br>Sou um profissional com forte senso de iniciativa, colaboração e foco em resultados. Gosto de mergulhar nos problemas para encontrar a melhor solução técnica, sempre buscando aprender e evoluir.<br><br>Estou constantemente aplicando e expandindo minhas habilidades em projetos pessoais e acadêmicos, como o TopFilmesBrasil que você pode encontrar nos meus repositórios.</p>
 
-<p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Snoopy1866&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
-</p>
+###
 
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=snoopy1866&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
-</p>
+<br clear="both">
 
-<p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,sas,r,html,javascript,cs,java,md,sphinx,restructuredtext,regex,vscode,lightroom,premiere,mediaencoder&titles=true" alt="skill icons" title="skill icons">
-</p>
+<h1 align="center">Techs</h1>
 
-<p align="center">
-    <!-- https://github.com/Platane/snk -->
-    <img width="800" src="profile-contrib-snake/github-snake.svg" alt="contrib snake" title="contrib snake">
-</p>
+###
 
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <a href="https://wakatime.com/@Snoopy1866"><img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">Estatísticas</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickcsouzadev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcsouzadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=patrickcsouzadev&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="400" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickcsouzadev&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h1 align="center">Redes sociais</h1>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/patrickcsouzadev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="PTKsccp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="13991616105" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="patrickcsouza.dev@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="13991616105" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickcsouzadev/patrickcsouzadev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickcsouzadev/patrickcsouzadev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patrickcsouzadev/patrickcsouzadev/output/github-contribution-grid-snake.svg">
+</picture>
